@@ -3,7 +3,6 @@
 
 en:
   hello: "Hello world"
-  added_string: "Hey, I'm new around here"
   payment_methods:
     - credit card
     - wire transfer
