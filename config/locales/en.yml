@@ -8,3 +8,19 @@ en:
     - wire transfer
     - paypal
   welcome_message: "Welcome to my awesome site!"
+  dickens:
+    tale_of_two_cities:
+      best_times: It was the best of times
+      worst_times: it was the worst of times
+      age_wisdom: it was the age of wisdom
+      age_foolishness: it was the age of foolishness
+      epoch_belief: it was the epoch of belief
+      epoch_incred: it was the epoch of incredulity
+      season_light: it was the season of Light
+      season_darkness: it was the season of Darkness
+      spring_hope: it was the spring of hope
+      winter_despair: it was the winter of despair
+      everything: we had everything before us
+      nothing: we had nothing before us
+      heaven: we were all going direct to Heaven
+      other_way: we were all going direct the other way
